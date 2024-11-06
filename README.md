@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m4n4m4hm3d
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Computer Vision
 
 
 <!---
